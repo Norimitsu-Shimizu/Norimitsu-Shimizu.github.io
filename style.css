@@ -60,6 +60,17 @@ body {
   justify-content: center;
 }
 
+#main-visual:before {
+  background-image: url('images/RED19515A006.jpg');
+  background-size: cover;
+  content: '';
+  width: 100%;
+  position: absolute;
+  height: 500px;
+  z-index: -1;
+  filter: brightness(85%);
+}
+
 .main-visual-title {
   font-family: serif;
   font-size: 48px;
