@@ -112,15 +112,6 @@ body {
   margin-right: auto;
 }
 
-.section-list {
-  margin-right: 20px;
-  float: left;
-}
-
-.section-li {
-  list-style: none;
-}
-
 #introduction p {
   font-size: 12px;
   text-align: center;
