@@ -106,6 +106,10 @@ body {
   padding: 10px 0;
 }
 
+.section-photo {
+  text-align: center;
+}
+
 #introduction p {
   font-size: 12px;
   text-align: center;
